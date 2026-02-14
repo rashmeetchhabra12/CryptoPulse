@@ -1,0 +1,28 @@
+node_modules
+.env
+.env.*
+!.env.example
+!frontend-react/.env.example
+dist
+build
+*.log
+backend/.gradle
+backend/build
+frontend/node_modules
+frontend/dist
+frontend-react/dist
+*.DS_Store
+docs_archive/
+
+# Local git history backups (should never be committed)
+.git_backup_*/
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+frontend-react/test-results/
+frontend-react/playwright-report/
+frontend-react/coverage/
