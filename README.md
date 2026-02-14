@@ -224,7 +224,7 @@ Cryptocurrency/
 ### Clone and Install
 
 ```bash
-git clone https://github.com/ankit7610/Cryptocurrency.git
+git clone https://github.com/rashmeetchhabra12/CryptoPulse.git
 cd Cryptocurrency
 
 npm run setup
