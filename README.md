@@ -2,8 +2,6 @@
 
 A comprehensive, full-stack cryptocurrency and stock market dashboard with real-time data, portfolio tracking, AI-powered chat, and advanced analytics.
 
-**GitHub**: [ankit7610/Cryptocurrency](https://github.com/ankit7610/Cryptocurrency)
-
 ---
 
 ## Table of Contents
@@ -417,11 +415,6 @@ Stores API responses locally to reduce network requests and improve performance.
 - **Code Splitting**: React.lazy and Suspense for faster initial load.
 - **Web Vitals**: Monitoring performance metrics.
 - **Rate Limiting**: Protecting the backend from abuse.
-
----
-
-## License
-MIT License - see LICENSE file for details
 
 ---
 
